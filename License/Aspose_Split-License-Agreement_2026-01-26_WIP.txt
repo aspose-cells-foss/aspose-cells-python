@@ -1,0 +1,44 @@
+Date Revised: 28th January 2026
+
+Split License Agreement
+
+IMPORTANT: READ CAREFULLY: This Aspose.org Split License Agreement (“Split Agreement”) is a legal agreement between You and Aspose.org for the materials accompanying this Split Agreement, which may include computer software, source code, printed materials, and “online” or electronic documentation and resource files, project, and solution files. The Licensed Work is licensed, not sold.
+
+BY INSTALLING, DOWNLOADING, COPYING OR OTHERWISE USING THE PRODUCT, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL, DOWNLOAD, COPY OR USE THE PRODUCT.
+
+1.  	DEFINITIONS.
+
+1.1.	“Aspose.org” or “Company” means Aspose Pty Ltd and its subsidiaries.
+
+1.2.	“Direct Package Dependency” means any Licensed Work in Source or Object form that is installed directly by You.
+
+1.3.	“Larger Work(s)” means a work that combines the Licensed Work with other material, in a separate file or files, that is not the Licensed Work.
+
+1.4.	“Licensed Work(s)” means the work of authorship, whether in Source or Object form, licensed under this Split Agreement
+
+1.5.	“Object” or “Object Form” means any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+1.6.	“Open Source Work(s)” means Larger Work that is (a) Licensed under an OSI-approved Open Source license or a recognized Source Available license, and (b) publicly distributed or published in source code form.
+
+1.7.	“Qualifying Business” means an individual or legal entity and its Affiliates which has less than 200 employees or contractors and annual revenues less than one million U.S. dollars (or the equivalent in other currencies). The term “Affiliates” refers to entities that directly or indirectly control, are controlled by, or are under common control with the organization.
+
+1.9.	“Source” or “Source Form” means the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+1.10.	“Transitive Package Dependency” means any Larger Work in Object form that is installed indirectly by a third-party dependency unrelated to Aspose.org.
+
+1.11.	“You” or “Your” means an individual or legal entity exercising permissions granted by this Split Agreement. For legal entities, “You” includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, “control” means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
+
+2.  	GRANT OF LICENSE.  Aspose.org grants You the rights described in this Agreement provided that You comply with all the terms and conditions of this Agreement:
+
+2.1.	Split License Grant.  Licensed Works are split licensed and may be licensed under the MIT License or an Aspose.org Commercial License. Licenses are granted based upon You meeting the qualified criteria as stated. Once granted, You must reference the granted license only in all documentation.
+
+2.1.2	Split License Criteria.  Licensed Works are licensed to You under the MIT License if:
+(i) You are consuming the Licensed Work in Open Source Works, or 
+(ii) You are consuming the Licensed Work as a Transitive Package Dependency, or 
+(iii) You are consuming the Licensed Work as a Direct Package Dependency in the capacity of a Qualifying Business
+
+2.1.3.	Continued Qualification.  Your right to use the Licensed Work under the MIT License is conditional upon Your continued satisfaction of the applicable qualification criteria (e.g., as a Qualifying Business, or other stated exception).
+
+If at any time You no longer meet the criteria to qualify for using the MIT License then Your rights under the MIT License are revoked, and You must obtain a valid Aspose.org Commercial License to continue using the Licensed Work.
+
+2.2.	Commercial License.  For all other scenarios, Licensed Works are licensed to You under the Aspose.org Commercial License which may be purchased by visiting https://aspose.org/pricing/.
