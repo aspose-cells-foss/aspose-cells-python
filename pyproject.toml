@@ -46,7 +46,9 @@ Repository = "https://github.com/aspose-cells-foss/aspose-cells-python.git"
 Issues = "https://github.com/aspose-cells-foss/aspose-cells-python/issues"
 
 [tool.setuptools]
-packages = ["aspose_cells"]
+packages = ["aspose_cells", "examples", "License"]
 
 [tool.setuptools.package-data]
 aspose_cells = ["*.py"]
+examples = ["*.py"]
+License = ["*.txt"]

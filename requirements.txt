@@ -1,5 +1,5 @@
 # Aspose.Cells for Python Requirements
-
+python>=3.7
 # Required for XLSX encryption support
 pycryptodome>=3.15.0  # AES encryption/decryption
 olefile>=0.46  # Compound File Binary (CFB) format handling
