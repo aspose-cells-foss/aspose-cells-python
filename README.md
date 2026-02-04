@@ -137,7 +137,7 @@ workbook2 = Workbook("protected.xlsx", password="mypassword")
 
 ## Documentation
 
-For more examples and detailed API documentation, see the [examples](examples/) directory.
+For more examples and detailed API documentation, see the [examples](https://github.com/aspose-cells-foss/aspose-cells-python/tree/main/examples) directory.
 
 ## Contributing
 
@@ -151,9 +151,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](License/Aspose_Split-License-Agreement_2026-01-26_WIP.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aspose-cells-foss/aspose-cells-python/blob/main/License/Aspose_Split-License-Agreement_2026-01-26_WIP.txt) file for details.
 
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/aspose-cells-foss/aspose-cells-python/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/aspose-cells-foss/aspose-cells-python/discussions)
